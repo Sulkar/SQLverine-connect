@@ -4,8 +4,8 @@
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', 'localhost'); //for localhost use 127.0.0.1
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'Thistime1!');
-define('DB_NAME', 'sqlverine');
+define('DB_PASSWORD', 'xxxxx');
+define('DB_NAME', 'dbname');
 
 /* Attempt to connect to MySQL database */
 try {
