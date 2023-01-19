@@ -1,4 +1,6 @@
 # SQLverine-connect
+## Informationen zur Einrichtung
+- [Synology NAS](https://telegra.ph/NAS-01-17)
 ## NAS setup/test page
 ![](./data/info_nas_setup.png)
 
